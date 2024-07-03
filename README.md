@@ -1,0 +1,1 @@
+# Analise_como_series_temporais
